@@ -282,6 +282,3 @@ If you find MoBE useful in your research or application, please consider citing 
       archivePrefix={arXiv},
 }
 ```
-
-## Contact Us
-If you are interested to leave a message to either our research team (shiguang.cxd@antgroup.com, lijg.zero@antgroup.com).
