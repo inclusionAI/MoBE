@@ -9,7 +9,7 @@
 
 ---
 ## ✅ Feature List
-- [x] **Supported multiple MoE models**
+- [x] **Supported multiple MoE models (BF16)**
   - [x] Ling Family
   - [x] Qwen3MoE Family
   - [x] DeepSeek-V3
