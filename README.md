@@ -48,7 +48,7 @@ MoBE significantly outperforms prior compression methods with minimal accuracy d
 
 ### 🔧 Installation
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ---
